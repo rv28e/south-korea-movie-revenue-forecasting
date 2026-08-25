@@ -92,9 +92,9 @@ south-korea-movie-revenue-forecasting/
 │
 └── README.md
 ```
-Files
-south-korea-movie-revenue-forecasting.R — R code used for the complete time series analysis and forecasting process.
-data/experiment1.xlsx — Dataset containing the monthly movie revenue observations.
+## Files
+- `south-korea-movie-revenue-forecasting.R` — R code used for the statistical analysis.
+- `data/experiment1.xlsx` — Dataset used in the analysis.
 
-Author
-Roaa Alharbi
+## Author
+**Roaa Alharbi**
